@@ -1,4 +1,4 @@
-This is my personal portfolio website built using HTML and basic CSS. It serves as an introduction to my work and provides a way to get in touch with me.
+Welcome to my personal portfolio website built using HTML and basic CSS. It serves as an introduction to my work and provides a way to get in touch with me.
 
 Pages
 Home Page - Showcases an introduction about me, my skills, and an overview of my work.
