@@ -14,7 +14,7 @@ bash
 Copy
 Edit
 
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/kiranbjks/Portfolio-simple-website.git
 Navigate to the project folder.
 Open index.html in your browser to view the website.
 
